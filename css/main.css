@@ -99,9 +99,9 @@ body {
 /* ── Mobile scaling ── */
 @media (max-width: 480px) {
   :root {
-    --flower-scale: 0.52;
-    --flower-bottom: 0vmin;
-    --text-above-flower: 54vmin;
+    --flower-scale: 1.2;
+    --flower-bottom: -10vmin;
+    --text-above-flower: 95vmin;
   }
 }
 @media (min-width: 481px) and (max-width: 768px) {
